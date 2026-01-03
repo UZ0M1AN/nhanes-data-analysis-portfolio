@@ -1,6 +1,8 @@
-# NHANES Cardiometabolic Profile Analysis
+<h1 align='center'> NHANES Cardiometabolic Profile Analysis </h1>
 
-![Blood Pressure vs FPG](figures/bp_fpg.png)
+<p align="center">
+  <img src="figures/bp_fpg.png" width="600" />
+</p>
 
 **Exploring how demographics, body measures, blood pressure, and supplement use relate to cardiometabolic lab markers in a U.S. population.**
 
