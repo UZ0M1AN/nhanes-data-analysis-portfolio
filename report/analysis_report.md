@@ -58,11 +58,11 @@ This analysis explores associations between demographics, anthropometry, blood p
 - Blood pressure: mean SBP 119 mmHg, DBP 72 mmHg; majority had normal BP.
 
 #### Figure 1: Demographic distribution
-![Demographics](figures/demographics.png)
+![Demographics](../figures/demographics.png)
 
 #### Figure 2: Anthropometry and BP
-<img src="figures/anthropometry.png" width="45%" />
-<img src="figures/bp.png" width="45%" />
+<img src="../figures/anthropometry.png" width="45%" />
+<img src="../figures/bp.png" width="45%" />
 
 ---
 
@@ -73,7 +73,7 @@ This analysis explores associations between demographics, anthropometry, blood p
 - **Serum Vitamin D:** moderate positive correlation with age; lower in Non-Hispanic Blacks, higher in Non-Hispanic Whites.
 
 #### Figure 3: Demographics vs Labs
-![Significant demographics vs labs](figures/significant_demographics_labs.png)
+![Significant demographics vs labs](../figures/significant_demographics_labs.png)
 
 ---
 
@@ -84,7 +84,7 @@ This analysis explores associations between demographics, anthropometry, blood p
 - **Significant association:** Vitamin D supplement with serum vitamin D (Spearman ρ = 0.40), reduced to 0.16 after adjustment for age, race, and education.
 
 #### Figure 4: Supplement Usage Counts
-![Supplement Use](figures/supplements.png)
+![Supplement Use](../figures/supplements.png)
 
 ---
 
@@ -100,7 +100,7 @@ This analysis explores associations between demographics, anthropometry, blood p
 - Waist circumference emerged as the strongest predictor of lab markers.
 
 #### Figure 5: Waist Circumference vs FPG
-![Anthropometry vs labs](figures/abs_corr_anthropometry_labs.png)
+![Anthropometry vs labs](../figures/abs_corr_anthropometry_labs.png)
 
 ---
 
@@ -111,7 +111,7 @@ This analysis explores associations between demographics, anthropometry, blood p
 - FPG generally increased with BP category, except hypertensive crisis, where it decreased slightly (still higher than normal BP class).
 
 #### Figure 6: FPG by BP Category
-![FPG vs BP](figures/bp_fpg.png)
+![FPG vs BP](../figures/bp_fpg.png)
 
 ---
 
@@ -122,7 +122,7 @@ This analysis explores associations between demographics, anthropometry, blood p
 - Patterns align with known metabolic syndrome clustering.
 
 #### Figure 7: Lab Correlation Heatmap
-![Correlation Heatmap](figures/labs_labs.png)
+![Correlation Heatmap](../figures/labs_labs.png)
 
 
 ---
