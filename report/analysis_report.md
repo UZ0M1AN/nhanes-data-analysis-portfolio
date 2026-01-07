@@ -63,7 +63,7 @@ This analysis explores associations between demographics, anthropometry, blood p
 #### Figure 2: Anthropometry and BP
 | Anthropometry | BP |
 |-------------|---------------------|
-| <img src="../figures/anthropometry.png" width="100%" /> | <img src="../figures/bp.png" width="100%" /> |
+| <img src="../figures/anthropometry.png" height="400px" /> | <img src="../figures/bp.png" width="100%" /> |
 
 ---
 
